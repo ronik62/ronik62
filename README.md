@@ -1,99 +1,46 @@
-
-
-<!--
-**ronik62/ronik62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 👋 Hi, I'm Ronik Kumbhar
 
-### ☕ Java Backend Developer | Spring Boot | REST APIs | PostgreSQL
+### Java Backend Developer | Spring Boot | REST APIs | PostgreSQL
 
-I'm a Java Backend Developer focused on building scalable and maintainable
-backend applications using Java and Spring Boot.
-
-## 🚀 About Me
-
-- 💻 Java Backend Developer
-- ☕ Strong foundation in Core Java and OOP
-- 🌱 Currently deepening my Spring Boot & backend engineering skills
-- 🤖 Exploring AI integration using Spring AI and Ollama
-- 🧠 Practicing Data Structures & Algorithms
-- 🔧 Interested in backend systems, REST APIs and scalable applications
+I'm a Java Backend Developer focused on building clean and scalable backend
+applications using Java and Spring Boot.
 
 ## 🛠️ Tech Stack
 
-**Languages**
-- Java
-- SQL
-- PL/SQL
+**Languages:** Java, SQL, PL/SQL
 
-**Backend**
-- Spring Boot
-- Spring MVC
-- Spring Data JPA
-- Hibernate
-- REST APIs
-- Spring Security
-- Spring AI
+**Backend:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate, REST APIs, Spring Security, Spring AI
 
-**Databases**
-- PostgreSQL
-- MySQL
-- Oracle
-- Redis
+**Databases:** PostgreSQL, MySQL, Oracle
 
-**Tools**
-- Git
-- Maven
-- Postman
-- Swagger / OpenAPI
-- Docker
-- JUnit 5
-- Mockito
+**Tools:** Git, Maven, Postman, Swagger, JUnit 5, Mockito, Docker
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🎫 Ticket Management System
+Java • Spring Boot • JPA • Hibernate • PostgreSQL
 
-**Java | Spring Boot | JPA | Hibernate | PostgreSQL**
-
-- Built REST APIs for complete ticket lifecycle management
-- Implemented pagination, sorting and dynamic filtering
-- Used JPA Specifications for flexible querying
-- Implemented DTOs, Bean Validation and global exception handling
-- Documented APIs using Swagger/OpenAPI
+- REST APIs for ticket management
+- Pagination, sorting and dynamic filtering
+- JPA Specifications
+- DTOs, validation and global exception handling
+- Swagger/OpenAPI documentation
 
 ### 🤖 AI Learning & Assessment Platform
+Java • Spring Boot • Spring AI • Ollama • PostgreSQL
 
-**Java | Spring Boot | Spring AI | Ollama | PostgreSQL**
+- AI-powered learning and assessment platform
+- LLM integration using Spring AI and Ollama
+- AI-generated questions, explanations and feedback
+- Performance analysis and personalized recommendations
 
-- Built an AI-powered learning and assessment platform
-- Integrated Spring AI with Ollama for LLM-powered functionality
-- Generated topic-specific questions and personalized feedback
-- Implemented performance analysis and learning recommendations
-- Built REST APIs using Spring Boot and PostgreSQL
+## 🌱 Currently Learning
 
-## 🎯 Currently Learning
-
-- Advanced Spring Boot
-- Spring Security & JWT
-- Microservices
+- Advanced Java & Spring Boot
+- Data Structures & Algorithms
 - System Design
-- DSA
-- AI/LLM integration
+- AI / LLM Integration
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/ronik-kumbhar-95236218a)
-- 📧 ronikkumbhar009@gmail.com
-- 💻 [GitHub](https://github.com/ronik62)
+[LinkedIn](www.linkedin.com/in/ronik-kumbhar-95236218a) • [GitHub](https://github.com/ronik62) • [Email](mailto:ronikkumbhar009@gmail.com)
