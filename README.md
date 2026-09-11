@@ -41,6 +41,12 @@ Java • Spring Boot • Spring AI • Ollama • PostgreSQL
 - System Design
 - AI / LLM Integration
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ronik62" alt="GitHub Streak" />
+</p>
+
 ## 📫 Connect With Me
 
 [LinkedIn](www.linkedin.com/in/ronik-kumbhar-95236218a) • [GitHub](https://github.com/ronik62) • [Email](mailto:ronikkumbhar009@gmail.com) • [Portfolio](https://ronik62.github.io/ronik-portfolio/)
